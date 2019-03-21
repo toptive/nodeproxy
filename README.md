@@ -3,7 +3,7 @@
 ## Getting Started
 
 ```sh
-git clone https://github.com/tartexs/local-proxy.git nodeproxy
+git clone https://github.com/toptive/nodeproxy.git nodeproxy
 cd nodeproxy
 npm install # or yarn install
 ```
