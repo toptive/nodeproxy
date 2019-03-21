@@ -1,3 +1,9 @@
+/**
+ * Localhost proxy for development process that could allow CORS for some cases
+ *
+ * @author  Cristian Tardivo
+ * @version 1.0
+ */
 const express = require("express");
 const proxy   = require("http-proxy-middleware");
 const cors    = require("cors");
